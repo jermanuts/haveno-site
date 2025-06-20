@@ -116,7 +116,7 @@ The trading fee is configurable when deploying a Haveno network.
 
 ## [How can I exchange Monero for fiat without involving banks?](#how-can-i-exchange-monero-for-fiat-without-involving-banks)
 
-Haveno supports payment methods that don't require users to have a bank account, like ["Face to face (F2F) trades](https://docs.haveno.exchange/the-project/payment_methods/F2F) and ["Pay by mail"](https://docs.haveno.exchange/the-project/payment_methods/Pay_By_Mail/).
+Haveno supports payment methods that don't require users to have a bank account, like ["Face to face (F2F) trades"](https://docs.haveno.exchange/the-project/payment_methods/F2F) and ["Pay by mail"](https://docs.haveno.exchange/the-project/payment_methods/Pay_By_Mail/).
 
 # Bisq and Haveno
 
